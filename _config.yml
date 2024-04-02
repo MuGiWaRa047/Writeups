@@ -1,1 +1,13 @@
-remote_theme: pages-themes/hacker@v0.2.0
+# remote_theme: pages-themes/hacker@v0.2.0
+theme: jekyll-theme-hacker
+plugins:
+  - jemoji
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-remote-theme
+markdown: kramdown
+kramdown:
+  parse_block_html: true
+title: "Writeups"
+description: "This repository contains writeups for HTB, different CTFs and other challenges."
+google_analytics: G-T8K5YV4W6E
