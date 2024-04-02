@@ -4,12 +4,12 @@
 ### Desccription :
 Find the flag being held on this server to get ahead of the competition http://mercury.picoctf.net:47967/
 
-# ---
+## Solution
 
 As challenge name given 'GET aHEAD' we have an idea about HEAD request.
 Use BurpSuit for intercept request, it use GET request we have to change it to HEAD
 
-```get to head
+```gettohead
 HEAD /index.php HTTP/1.1
 
 Host: mercury.picoctf.net:47967
@@ -27,8 +27,8 @@ Accept-Encoding: gzip, deflate, br
 Accept-Language: en-US,en;q=0.9
 
 Connection: close
-
 ```
+
 by changing the methon to HEAD we will get following response :
 ```response
 HTTP/1.1 200 OK
