@@ -1,9 +1,9 @@
+# Writeups
 
-CTF
 
-[CTF](CTF)
+* [CTF](CTF)
 
-[OTHER](OTHER)
+* [OTHER](OTHER)
 
 
 

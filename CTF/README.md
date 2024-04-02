@@ -1,5 +1,5 @@
 ## List
 
-[picoctf](picoctf)
+* [picoctf](picoctf)
 
-[dicectf](dicectf)                  
+* [dicectf](dicectf)                  

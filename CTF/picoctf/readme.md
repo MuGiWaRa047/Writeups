@@ -1,4 +1,4 @@
-## List
+## PicoCtf
 
 [web](web)
 
