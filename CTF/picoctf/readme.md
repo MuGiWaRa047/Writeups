@@ -1,5 +1,5 @@
 ## PicoCtf
 
-[web](web)
+- [web](web)
 
-[crypto](crypto)
+- [crypto](crypto)

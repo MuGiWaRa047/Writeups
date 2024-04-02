@@ -1,7 +1,7 @@
 # web
 
->> [GETaHEAD](GETaHEAD)
+* [GETaHEAD](GETaHEAD)
 
->> [Cookies](Cookies)
+* [Cookies](Cookies)
 
->> [Insp3ct0r](Insp3ct0r)
+* [Insp3ct0r](Insp3ct0r)
