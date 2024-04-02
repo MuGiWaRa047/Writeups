@@ -42,9 +42,11 @@ Cookie: name=18
 Connection: keep-alive
 ```
 
-### response
+<details>
+<summary markdown="span">Response : </summary>
 
-```res
+```
+
 HTTP/1.1 200 OK
 
 Content-Type: text/html; charset=utf-8
@@ -98,6 +100,7 @@ Content-Length: 1184
 
 </html>
 ```
+</details>
 
 
 
