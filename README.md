@@ -1,5 +1,5 @@
 
-# CTF
+# Writeups
 
 > [CTF](CTF)
 
