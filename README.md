@@ -1,6 +1,9 @@
-# Writeups
-#this repo contain writeups about ctfs
-* picoctf
-* dicectf
-* realworldctf
-* other
+
+CTF
+
+[CTF](CTF)
+
+[OTHER](OTHER)
+
+
+
