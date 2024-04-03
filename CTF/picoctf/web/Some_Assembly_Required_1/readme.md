@@ -86,7 +86,7 @@ OR
 
 in other way, just go to sorces of wesite ( rigth click >> inspect >> sorces ) in that you will find some pages, go to wasm >> 10c1d916 , at the and you will get the flag. 
 
-<img width="300" alt="image" src="soece.jpg">
+<img width="500" alt="image" src="soece.jpg">
 
 
 
