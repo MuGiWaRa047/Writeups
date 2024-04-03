@@ -26,8 +26,9 @@ Browse the given link, in website we have to do is just run the given script in 
                                 
 </details>
 
-what is still we want to run that script, is there any other way ?
-yes we can use ' console ' (inspect > console)
+what if still we want to run that script, is there any other way ?
+
+yes we can use ' console ' (inspect >> console)
 
 Just go tu the console and past the given script and you will get flag in alert:
 

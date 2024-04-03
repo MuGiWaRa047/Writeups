@@ -43,7 +43,7 @@ Connection: keep-alive
 ```
 
 <details>
-<summary markdown="span">Response : </summary>
+<summary markdown="span">Click to see Response : </summary>
 
 ```
 
@@ -99,8 +99,12 @@ Content-Length: 1184
 </body>
 
 </html>
+
 ```
+
 </details>
+
+
 
 
 
