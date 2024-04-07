@@ -1,0 +1,1 @@
+amateursCTF{go_union_select_a_life}

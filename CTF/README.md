@@ -2,4 +2,4 @@
 
 - [picoctf](picoctf)
 
-- [dicectf](dicectf)                  
+- [AmateursCTF_2024](AmateursCTF_2024)                  
