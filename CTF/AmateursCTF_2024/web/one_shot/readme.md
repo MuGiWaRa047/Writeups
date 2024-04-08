@@ -170,7 +170,7 @@ intresting we get:
 
 
 Problem is we have all letter in unorganised order, think about this how can we get all in order.
-we can use use thirs perameter (arg) of SUBSTR, this will give us all letters in currect order.
+we can use use third perameter (arg) of SUBSTR, this will give us all letters in currect order.
 
 
 
