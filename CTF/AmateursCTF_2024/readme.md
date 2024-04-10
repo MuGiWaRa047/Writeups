@@ -3,3 +3,5 @@
 * [web](web)
 
 * [osint](osint)
+
+* [crypto](crypto)
