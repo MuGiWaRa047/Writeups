@@ -17,19 +17,28 @@ this challenge was so easy, visit the given web link, its simple page and prints
 <img width="500" alt="image" src="uimg1.png">
 
 
+
 and at footer it print your agent. hmmmm, did you get it. lets try to change user agent 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.6312.58 Safari/537.36' to 'erorr' using burpsuit.
+  
 
 
 <img width="500" alt="image" src="uimg2.png">
 
 now footer shows the message that we send in user agent.
 
+
+
 Now lets try to add script for show alert :
-'User-Agent:<script>alert(1)</script>'
+```User-Agent:<script>alert(1)</script>```
+
+
 
 boom:
 
+
+
 <img width="500" alt="image" src="uimg3.png">
+
 
 
 you have your flag.
