@@ -30,11 +30,11 @@ now footer shows the message that we send in user agent.
 
 Now lets try to add script for show alert :
 
-
+```code
 
 User-Agent:<script>alert(1)</script>
 
-
+```
 
 
 
