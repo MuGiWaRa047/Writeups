@@ -1,3 +1,3 @@
 # test
 
-User-Agent:<script>alert(1)</script>
+User-Agent:<script>alert(document.domain)</script>
